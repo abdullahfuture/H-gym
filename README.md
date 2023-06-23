@@ -3,10 +3,4 @@
 today's present is :  extension called `Color Highlight` search in vscode by the name  or you can download it from [Google Chrome](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 
-try stuff 
 
-``hi there ``
-```hi there ```
-````hi there ````
-<hi >
-<h1> hi there  </h1>
